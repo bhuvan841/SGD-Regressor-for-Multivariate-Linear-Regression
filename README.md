@@ -50,7 +50,6 @@ mse=mean_squared_error(Y_test,Y_pred)
 print("Mean Square Error:",mse)
 print("\nPredictions:\n",Y_pred[:5])
 ```
-
 ## Output:
 
 <img width="395" height="222" alt="image" src="https://github.com/user-attachments/assets/c10fc986-3dcb-4fa5-833c-3e4ba8cda650" />
